@@ -8,3 +8,6 @@ Evaluates the speed of a car and issues demerit points based on how far above th
 
 ## Net salary 
 Calculates an individual's net salary by considering basic salary, benefits, and deductions
+
+## License 
+Prompted under MIT license
